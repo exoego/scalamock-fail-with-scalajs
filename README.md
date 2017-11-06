@@ -6,7 +6,7 @@
 * ScalaTest 3.0.4
 * ScalaMock 3.6.0 
 
-This setup will fail to run ScalaTest suites showing error message like below.
+`sbt test` will fail showing error message like below.
 
 ```bash
 sbt:foo> test
